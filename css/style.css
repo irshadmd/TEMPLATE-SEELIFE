@@ -5,7 +5,7 @@ body{
 .sec-1{
 	width: 100%;
 	height: 137vh;
-	background: url("E:/Notes/Web Development/HTML/Practice/Website SEELIFE/img/banner/home-banner.jpg");
+	background: url("../img/banner/home-banner.jpg");
 	background-position-x: -286px;
 	/*filter: brightness(0.4);*/
 }
@@ -501,7 +501,7 @@ body{
 	position: absolute;
 	width: 1110px;
 	height: 140px;
-	background: url("E:/Notes/Web Development/HTML/Practice/Website SEELIFE/img/subscribe-bg.jpg");
+	background: url("../img/subscribe-bg.jpg");
 	top: -105px;
 	left: 130px;
 }
