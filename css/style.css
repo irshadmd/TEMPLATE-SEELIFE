@@ -5,7 +5,7 @@ body{
 .sec-1{
 	width: 100%;
 	height: 137vh;
-	background: url("../img/banner/home-banner.jpg");
+	background: url("img/banner/home-banner.jpg");
 	background-position-x: -286px;
 	/*filter: brightness(0.4);*/
 }
