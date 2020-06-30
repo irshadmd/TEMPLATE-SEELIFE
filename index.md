@@ -7,7 +7,7 @@
 </head>
 <body>
 	<section class="main">
-		<section class="sec-1" style="background: url("https://irshadmd.github.io/TEMPLATE-SEELIFE/img/banner/home-banner.jpg");">
+		<section class="sec-1">
 			<div class="navigation">
 				<div class="logo">
 				<img src="img/logo.png" width="133px" height="36px">
